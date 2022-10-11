@@ -1,0 +1,42 @@
+/* общие стили*/
+body {
+    margin: 0;
+}
+ul {
+    margin: 0;
+    padding: 0;
+}
+.container {
+    width: 1140px;
+    margin: 0 auto;
+}
+       /*стили хэдора*/
+header {
+    background: pink;
+}
+
+/*стили понели навигации*/
+.main-menu {
+    background: blue;
+}
+.main-menu-list {
+    list-style: none;
+}
+
+/*стили контента*/
+section {
+    background: orange;
+}
+.section-item {
+    background: peachpuff;
+}
+
+/*стили сайдбара*/
+.sidebar-right {
+    background: greenyellow;
+}
+
+/*стили футера*/
+footer {
+    background: plum;
+}
